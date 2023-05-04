@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "build": "",
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "node app.js"
   },
   "keywords": [],
   "author": "",
