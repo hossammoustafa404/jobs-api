@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app",
-    "start": "node app"
+    "dev": "nodemon app.js",
+    "build": "",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -25,5 +26,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
